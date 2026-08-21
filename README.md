@@ -1,5 +1,6 @@
 # Gerenciador de Notas em Python
 
+
 ## Introdução
 
 Este projeto consiste em um sistema simples de gerenciamento acadêmico desenvolvido em Python.
@@ -8,11 +9,13 @@ O programa calcula a média dos alunos, verifica se eles foram aprovados ou repr
 
 O projeto foi desenvolvido como atividade acadêmica durante o curso de Análise e Desenvolvimento de Sistemas (ADS), com o objetivo de colocar em prática conceitos básicos de programação.
 
+
 ## Objetivo
 
 O objetivo principal é desenvolver uma aplicação simples para organizar as notas de alunos e automatizar o cálculo da média e a verificação da situação acadêmica.
 
 Além da funcionalidade, o projeto busca aplicar conceitos de organização e estruturação de código.
+
 
 ## Tecnologias utilizadas
 
@@ -25,6 +28,7 @@ Além da funcionalidade, o projeto busca aplicar conceitos de organização e es
 - Testes automatizados com unittest
 - Git e GitHub
 
+
 ## Estrutura do projeto
 
 ```text
@@ -33,7 +37,6 @@ gerenciador-notas-python/
 ├── test_notas.py
 └── README.md
 ```
-
 ### `gerenciador_notas.py`
 
 Arquivo principal da aplicação. Contém as funções responsáveis pelo cálculo das médias, verificação da aprovação, geração do relatório e execução do programa.
@@ -45,6 +48,7 @@ Arquivo responsável pelos testes automatizados das principais funções do sist
 ### `README.md`
 
 Documentação do projeto, contendo informações sobre seu objetivo, tecnologias utilizadas, estrutura e execução.
+
 
 ## Como executar o sistema
 
@@ -78,6 +82,7 @@ python3 -m unittest test_notas.py
 
 Se os testes forem executados corretamente, o terminal deverá indicar que os testes foram concluídos com sucesso.
 
+
 ## O que aprendi
 
 Durante o desenvolvimento, pude aplicar na prática conceitos que estou aprendendo no curso de ADS, principalmente lógica de programação, funções, listas, dicionários e modularização.
@@ -85,6 +90,7 @@ Durante o desenvolvimento, pude aplicar na prática conceitos que estou aprenden
 Também tive contato com testes automatizados utilizando `unittest`, entendendo melhor a importância de verificar se as funções apresentam os resultados esperados.
 
 Outro aprendizado foi perceber a importância de separar as responsabilidades do código e documentar o projeto, facilitando sua leitura e manutenção.
+
 
 ## Próximos passos
 
